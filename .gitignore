@@ -1,0 +1,6 @@
+venv 
+tasks.db
+__pycache__/
+*.pyc
+.venv/
+tasks.db
